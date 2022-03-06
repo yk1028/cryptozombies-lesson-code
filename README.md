@@ -27,3 +27,5 @@ If you found any error in the codes while you study, Feel free to submit pull re
 [![License shields](https://img.shields.io/badge/License-GPL%20v3-blue)](https://www.gnu.org/licenses/gpl-3.0)
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/loomnetwork/cryptozombies-lesson-code/blob/master/LICENSE) file for details.
+
+- add missing code
